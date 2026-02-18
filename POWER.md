@@ -1379,3 +1379,17 @@ The UI Design Intelligence Suite provides comprehensive guidance for building mo
 - ✅ Conversion optimization
 
 **Design excellence, delivered systematically.**
+
+
+---
+
+## License and Support
+
+This power is open-source under the MIT License.
+
+- **License:** [MIT License](https://github.com/devxkamlesh/kiro-power-ui-designer/blob/main/LICENSE)
+- **Repository:** [github.com/devxkamlesh/kiro-power-ui-designer](https://github.com/devxkamlesh/kiro-power-ui-designer)
+- **Issues & Support:** [GitHub Issues](https://github.com/devxkamlesh/kiro-power-ui-designer/issues)
+- **Author:** Kamlesh ([@devxkamlesh](https://linkedin.com/in/devxkamlesh))
+
+**Contributions welcome!** Feel free to submit issues, feature requests, or pull requests.
